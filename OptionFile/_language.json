@@ -1,0 +1,16 @@
+{
+  "option": [
+    {
+      "default": "Default"
+    },
+    {
+      "zhtw": "Chinese (Taiwam)"
+    },
+    {
+      "zhcn": "Chinese (China)"
+    },
+    {
+      "enus": "English (United States)"
+    }
+  ]
+}

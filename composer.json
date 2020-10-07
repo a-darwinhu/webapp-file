@@ -1,0 +1,17 @@
+{
+    "name": "a-darwinhu/webapp-file",
+    "description": "description",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Darwin Hu",
+            "email": "darwinhu09@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3",
+        "ext-json": "*",
+        "ext-sodium": "*"
+    }
+}
