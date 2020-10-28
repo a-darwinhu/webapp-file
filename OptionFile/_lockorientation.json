@@ -1,0 +1,16 @@
+{
+  "option": [
+    {
+      "system": "Lock by System"
+    },
+    {
+      "landscape": "Lock in landscape mode"
+    },
+    {
+      "portrait": "Lock in portrait mode"
+    },
+    {
+      "reversePortrait": "Lock in reverse portrait mode"
+    }
+  ]
+}
