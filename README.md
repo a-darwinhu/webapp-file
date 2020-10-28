@@ -17,3 +17,7 @@
 ```
 然後執行以下指令
 $ composer require a-darwinhu/webapp-file
+
+# Information 
+Folder OptionFile file name rule is depend on ProfileSetting Function List with underscore
+ex: LANGUAGE --> _language.json
