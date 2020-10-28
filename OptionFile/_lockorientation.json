@@ -1,16 +1,16 @@
 {
   "option": [
     {
-      "system": "Lock by System"
+      "0": "Lock by System"
     },
     {
-      "landscape": "Lock in landscape mode"
+      "1": "Lock in landscape mode"
     },
     {
-      "portrait": "Lock in portrait mode"
+      "2": "Lock in portrait mode"
     },
     {
-      "reversePortrait": "Lock in reverse portrait mode"
+      "3": "Lock in reverse portrait mode"
     }
   ]
 }
