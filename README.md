@@ -19,5 +19,6 @@
 $ composer require a-darwinhu/webapp-file
 
 # Information 
+Dynamic string for language, lockorientation, selectdays, timezone
 Folder OptionFile file name rule is depend on ProfileSetting Function List with underscore
 ex: LANGUAGE --> _language.json
