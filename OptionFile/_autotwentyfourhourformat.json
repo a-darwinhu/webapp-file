@@ -1,7 +1,7 @@
 {
   "option": [
     {
-      "automatic": "Automatic 24 hour format ( locale default )"
+      "automatic": "Use locale default format"
     },
     {
       "twentyfour": "Use 24 hour format"
