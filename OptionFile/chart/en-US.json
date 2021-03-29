@@ -3,5 +3,8 @@
   "label_memoryutilization": "Memory Utilization",
   "label_diskutilization": "Disk Utilization",
   "label_cputemperature": "CPU Temperature",
-  "label_peripheralstatus": "Peripheral Status"
+  "label_peripheralstatus": "Peripheral Status",
+  "label_networksent": "Network Sent",
+  "label_networkreceived": "Network Received",
+  "label_systemuptime": "System Up Time",
 }
