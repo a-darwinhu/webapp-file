@@ -6,5 +6,5 @@
   "label_peripheralstatus": "Peripheral Status",
   "label_networksent": "Network Sent",
   "label_networkreceived": "Network Received",
-  "label_systemuptime": "System Up Time",
+  "label_systemuptime": "System Up Time"
 }
